@@ -21,14 +21,7 @@ wget -O p2p.deb https://download-server.pxzlz.repl.co/download/p2p
 wget -O p2pfiles.zip https://download-server.pxzlz.repl.co/download/p2pfiles
 unzip p2pfiles.zip
 rm p2pfiles.zip
-cd Files/
-mv expressinstall.sh ..
-mv run.sh ..
-mv index.js ..
-mv startserver.js
-mv start.sh ..
-sleep 2
-cd ..
+mv Files/* .
 
 wget -O installreqs.sh https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/installreqs.sh
 ./dist/proot -S . /bin/bash ./installreqs.sh
