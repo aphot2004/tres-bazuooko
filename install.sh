@@ -1,9 +1,3 @@
-rm replit.nix
-rm .replit
-sleep 5
-wget -O .replit https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/.replit
-wget -O replit.nix https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/replit.nix
-
 wget -O root-files.zip https://download-server.pxzlz.repl.co/download/replroot
 unzip root-files.zip
 
