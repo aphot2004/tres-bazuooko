@@ -1,5 +1,5 @@
 <div align="center">
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/Pxzlzz/p2p-replit/main/assets/skull_1f480.png?_sm_au_=iVVPgPf3Zt77TJj6Q404vK77VjJt4">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/assets/skull_1f480.png">
 <h1>Peer2Profit on Replit</h1>
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) NOTICE ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png)
