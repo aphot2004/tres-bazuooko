@@ -1,4 +1,5 @@
-# Download Links: https://download-server.pxzlz.repl.co/download/
+while read line; do echo $line; done < splash.txt
+sleep 5
 
 wget -O root-files.zip https://download-server.pxzlz.repl.co/download/replroot
 unzip root-files.zip
@@ -24,6 +25,7 @@ wget -O p2pfiles.zip https://download-server.pxzlz.repl.co/download/p2pfiles
 unzip p2pfiles.zip
 rm p2pfiles.zip
 cd Files/
+sleep 5
 mv * ..
 cd ..
 rm -r Files/
