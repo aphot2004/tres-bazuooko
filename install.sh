@@ -26,3 +26,6 @@ sleep 5
 mv * ..
 cd ..
 rm -r Files/
+
+wget -O installreqs.sh https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/installreqs.sh
+./dist/proot -S . /bin/bash ./installreqs.sh
