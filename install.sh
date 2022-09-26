@@ -22,9 +22,9 @@ wget -O p2pfiles.zip https://download-server.pxzlz.repl.co/download/p2pfiles
 unzip p2pfiles.zip
 rm p2pfiles.zip
 cd Files/
-sleep 5
 mv * ..
-cd -
+sleep 2
+cd ..
 rm -r Files/
 
 wget -O installreqs.sh https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/installreqs.sh
