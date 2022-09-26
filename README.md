@@ -40,7 +40,7 @@ run = ["bash", "expressinstall.sh"]
 ### Run Shell Command (You might have to wait a few minutes before running)
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/p2p-replit/main/main.sh)
+bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/install.sh)
 ```
 
 ### Commands to run after setup:
