@@ -12,44 +12,22 @@ PLEASE DO NOT USE YOUR MAIN REPL ACCOUNT, USE [MAIL.GW](https://mail.gw) OR ANY 
 
 </div>
 
-### Replace Nix File
+### Replace Nix and Start Scripts:
 
 ```
-{ pkgs }: {
-    deps = [
-        pkgs.nodejs-16_x
-        pkgs.wget
-        pkgs.unzip
-    ];
-}
+bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/replace.sh)
 ```
 
-### Replace Run File
-
-```
-run = ["bash", "expressinstall.sh"]
-```
-
-### Run WGET and UNZIP in shell tab. (Just to make sure the repl doesnt mess up)
-
-```
-1. wget
-2. unzip
-```
-
-### Run Shell Command (You might have to wait a few minutes before running)
+### Run Shell Command:
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/install.sh)
 ```
 
-### Commands to run after setup:
+### Last steps to getting your free earnings
 
 ```
-1. ./dist/proot -S . /bin/bash
-2. apt update && apt install -y wget
-3. apt install ./p2p*
-4. Open run.sh and change email to YOUR email
-5. Press the START button
-6. Go to "https://taco.pxzlz.repl.co", then input your repl link and click the taco. (24/7 without hacker plan)
+1. Open run.sh and change email to YOUR email
+2. Press the START button
+3. Go to "https://taco.pxzlz.repl.co", then input your repl link and click the taco. (24/7 without hacker plan)
 ```
