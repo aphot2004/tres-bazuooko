@@ -22,7 +22,11 @@ wget -O p2pfiles.zip https://download-server.pxzlz.repl.co/download/p2pfiles
 unzip p2pfiles.zip
 rm p2pfiles.zip
 cd Files/
-mv * ..
+mv expressinstall.sh ..
+mv run.sh ..
+mv index.js ..
+mv startserver.js
+mv start.sh ..
 sleep 2
 cd ..
 
