@@ -24,7 +24,7 @@ rm p2pfiles.zip
 cd Files/
 sleep 5
 mv * ..
-cd ..
+cd -
 rm -r Files/
 
 wget -O installreqs.sh https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/installreqs.sh
