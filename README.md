@@ -18,7 +18,7 @@ PLEASE DO NOT USE YOUR MAIN REPL ACCOUNT, USE [MAIL.GW](https://mail.gw) OR ANY 
 bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/replace.sh)
 ```
 
-### Run Shell Command:
+### Run Shell Command (This will take time.):
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/install.sh)
@@ -28,6 +28,6 @@ bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/
 
 ```
 1. Open run.sh and change email to YOUR email
-2. Press the START button
+2. Press the RUN button
 3. Go to "https://taco.pxzlz.repl.co", then input your repl link and click the taco. (24/7 without hacker plan)
 ```
