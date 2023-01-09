@@ -29,5 +29,5 @@ bash <(curl -s https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/
 ```
 1. Open run.sh and change email to YOUR email
 2. Press the RUN button
-3. Go to "https://taco.pxzlz.repl.co", then input your repl link and click the taco. (24/7)
+3. Go to "https://taco2.pxzlz.repl.co", then input your repl link and click the taco. (24/7)
 ```
