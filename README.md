@@ -1,16 +1,4 @@
-<div align="center">
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/Pxzlzz/Peer2Profit-Replit/main/assets/peer2profit.png">
-<h1>Peer2Profit on Replit</h1>
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) NOTICE ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png)
-PLEASE DO NOT USE YOUR MAIN REPL ACCOUNT, USE [MAIL.GW](https://mail.gw) OR ANY OTHER TEMP MAIL SERVICE!
-
-</div>
-<div align="center">
-
-## Setup (DO THESE IN ORDER)
-
-</div>
 
 ### Replace Nix and Start Scripts:
 
